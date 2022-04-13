@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/riddles/static/css/main.503e2b8a.css",
+    "main.js": "/riddles/static/js/main.aeeef2b4.js",
+    "static/js/787.3256237f.chunk.js": "/riddles/static/js/787.3256237f.chunk.js",
+    "static/media/item2.png": "/riddles/static/media/item2.44bdb03caf37037ec112.png",
+    "static/media/friends.mp3": "/riddles/static/media/friends.2f016bf98c3b56ff8f23.mp3",
+    "static/media/character2.gif": "/riddles/static/media/character2.4e170b09b695a13db2ee.gif",
+    "static/media/item4.png": "/riddles/static/media/item4.c4c28ca9e9a0f2db8056.png",
+    "static/media/flying_head.png": "/riddles/static/media/flying_head.ea349c5215cba9df2658.png",
+    "static/media/character6.gif": "/riddles/static/media/character6.4e734eb68aad7d65fe2e.gif",
+    "static/media/item3.png": "/riddles/static/media/item3.901def0a65143f6b25de.png",
+    "static/media/character1.gif": "/riddles/static/media/character1.a9d9f16a461875161ed8.gif",
+    "static/media/joey.png": "/riddles/static/media/joey.700920e05ad48d804740.png",
+    "static/media/friends.jpg": "/riddles/static/media/friends.eaa2ede1f2219ff69cb9.jpg",
+    "static/media/item5.png": "/riddles/static/media/item5.e390d592211d797165b4.png",
+    "static/media/item1.png": "/riddles/static/media/item1.3afc6f6a98a1dc15b173.png",
+    "static/media/end.jpg": "/riddles/static/media/end.bbd091d543edbee33e01.jpg",
+    "static/media/apartment.jpg": "/riddles/static/media/apartment.c76b73ea403d6405fad1.jpg",
+    "static/media/character5.gif": "/riddles/static/media/character5.1d8c34e08d39861167cc.gif",
+    "static/media/boys.png": "/riddles/static/media/boys.2361661e43c15cc88ddb.png",
+    "static/media/character4.gif": "/riddles/static/media/character4.ce56c53ba2cc6c5cac37.gif",
+    "static/media/clap3.jpg": "/riddles/static/media/clap3.a9b77b5de6ba0bea2be9.jpg",
+    "static/media/character3.gif": "/riddles/static/media/character3.aac1b8256d48ae8bb44d.gif",
+    "static/media/bamboozled.mp3": "/riddles/static/media/bamboozled.0d199092c82dc3b074a0.mp3",
+    "static/media/character7.gif": "/riddles/static/media/character7.b8440b9f35cfaaa642cd.gif",
+    "static/media/bg.jpg": "/riddles/static/media/bg.e26e169c57e7a7175c62.jpg",
+    "static/media/clap1.jpg": "/riddles/static/media/clap1.57108dea54fd6aa83188.jpg",
+    "static/media/clap2.jpg": "/riddles/static/media/clap2.dbdaabf4989ed4406e62.jpg",
+    "static/media/clap4.jpg": "/riddles/static/media/clap4.6aa0a994b1b1e26afebc.jpg",
+    "static/media/bamboozled.png": "/riddles/static/media/bamboozled.714f975abc809d286c86.png",
+    "static/media/title.png": "/riddles/static/media/title.0de4aad1203f7a01a6b5.png",
+    "index.html": "/riddles/index.html",
+    "main.503e2b8a.css.map": "/riddles/static/css/main.503e2b8a.css.map",
+    "main.aeeef2b4.js.map": "/riddles/static/js/main.aeeef2b4.js.map",
+    "787.3256237f.chunk.js.map": "/riddles/static/js/787.3256237f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.503e2b8a.css",
+    "static/js/main.aeeef2b4.js"
+  ]
+}
