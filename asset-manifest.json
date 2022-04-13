@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/riddles/static/css/main.503e2b8a.css",
-    "main.js": "/riddles/static/js/main.ac6274e1.js",
+    "main.js": "/riddles/static/js/main.31ff0347.js",
     "static/js/787.3256237f.chunk.js": "/riddles/static/js/787.3256237f.chunk.js",
     "static/media/item2.png": "/riddles/static/media/item2.44bdb03caf37037ec112.png",
     "static/media/friends.mp3": "/riddles/static/media/friends.2f016bf98c3b56ff8f23.mp3",
@@ -32,11 +32,11 @@
     "static/media/title.png": "/riddles/static/media/title.0de4aad1203f7a01a6b5.png",
     "index.html": "/riddles/index.html",
     "main.503e2b8a.css.map": "/riddles/static/css/main.503e2b8a.css.map",
-    "main.ac6274e1.js.map": "/riddles/static/js/main.ac6274e1.js.map",
+    "main.31ff0347.js.map": "/riddles/static/js/main.31ff0347.js.map",
     "787.3256237f.chunk.js.map": "/riddles/static/js/787.3256237f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.503e2b8a.css",
-    "static/js/main.ac6274e1.js"
+    "static/js/main.31ff0347.js"
   ]
 }
