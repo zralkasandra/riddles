@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/riddles/static/css/main.1a2372d2.css",
-    "main.js": "/riddles/static/js/main.6beb532a.js",
+    "main.js": "/riddles/static/js/main.9d0e5466.js",
     "static/js/787.3256237f.chunk.js": "/riddles/static/js/787.3256237f.chunk.js",
     "static/media/rachel.gif": "/riddles/static/media/rachel.2bcdf7caf7caa08eb57e.gif",
     "static/media/7.gif": "/riddles/static/media/7.cd71402855d72e20194b.gif",
@@ -88,7 +88,6 @@
     "static/media/paradisePond.png": "/riddles/static/media/paradisePond.bee0e3d96b7f2baee221.png",
     "static/media/stupid.mp3": "/riddles/static/media/stupid.04a03b1bc271afb59837.mp3",
     "static/media/chi-chi.gif": "/riddles/static/media/chi-chi.33a18b0ae590c505a7a3.gif",
-    "static/media/falafel.mp4": "/riddles/static/media/falafel.ffb1431da06616b5a261.mp4",
     "static/media/tan.gif": "/riddles/static/media/tan.3a654b3983575f83c017.gif",
     "static/media/excited.gif": "/riddles/static/media/excited.061740bdeaa58e8798dd.gif",
     "static/media/muriel.jpg": "/riddles/static/media/muriel.889ac8fbddf3ff820498.jpg",
@@ -197,11 +196,11 @@
     "static/media/monkey.webp": "/riddles/static/media/monkey.3a8ad1fa963195f4c26d.webp",
     "index.html": "/riddles/index.html",
     "main.1a2372d2.css.map": "/riddles/static/css/main.1a2372d2.css.map",
-    "main.6beb532a.js.map": "/riddles/static/js/main.6beb532a.js.map",
+    "main.9d0e5466.js.map": "/riddles/static/js/main.9d0e5466.js.map",
     "787.3256237f.chunk.js.map": "/riddles/static/js/787.3256237f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a2372d2.css",
-    "static/js/main.6beb532a.js"
+    "static/js/main.9d0e5466.js"
   ]
 }
